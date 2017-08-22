@@ -28,4 +28,4 @@ for each anime such as "Whoah, totally loved it !". These comments are stored in
 
 Here is a result : 
 
-![Screenshot](usage.png?raw=true)
+![Screenshot](screenshot.png?raw=true)
